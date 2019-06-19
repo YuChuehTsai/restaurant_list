@@ -4,8 +4,15 @@
 ## 安裝
 1.	下載ZIP檔案，解壓縮至電腦，得到“restaurant_list-master“之資料夾
 2.	利用終端機(Terminal)打開“restaurant_list-master“資料夾
-3.	在終端機中輸入 “npm install” 安裝套件
-4.	在終端機中輸入 “npm run start” 執行程式
+3.	安裝套件(在終端機中輸入)
+    ```
+    npm install
+    ```
+
+4.	執行程式(在終端機中輸入 )
+    ```    
+    npm run start
+    ```
 5.	在瀏覽器中輸入網址 http://localhost:3000 ，開始使用程式
 
 ## 特色
